@@ -1,6 +1,6 @@
-package OOP.EmployeeProject;
+package OOP.hierarchy;
 
-public class Main {
+public class MainDriver {
     public static void main(String[] args) {
 
     }
