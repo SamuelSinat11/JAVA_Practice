@@ -2,7 +2,7 @@ package OOP.Reservation;
 
 import java.time.LocalDate;
 
-public class Reservation {
+public abstract class Reservation {
     private int id;
     private String customerName;
     private LocalDate Date;
@@ -36,5 +36,8 @@ public class Reservation {
 
     public LocalDate getDate() {
         return Date;
+    }
+
+    public void checkReservationStatus() {
     }
 }
