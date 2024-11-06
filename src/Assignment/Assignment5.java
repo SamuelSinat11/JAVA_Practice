@@ -49,5 +49,4 @@ public class Assignment5 {
         Student student1 = new Student("Samuel", "Sinat",21, 'F',"CS");
         student1.IdentityInfo();
     }
-
 }

@@ -1,9 +1,6 @@
 package OOP.GymMembership;
 
 public class GymMembership {
-<<<<<<< HEAD
-
-=======
     private String name;
     private String membershipType;
     int duration;
@@ -38,5 +35,4 @@ public class GymMembership {
     public double calculateFees() {
         return 0;
     }
->>>>>>> eb8f199001cb9dfdead11c3aeb9bec1702e96da3
 }
