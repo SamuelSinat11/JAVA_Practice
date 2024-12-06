@@ -29,9 +29,8 @@ public class Demo {
     public static void main(String[] args) {
         Computer lap = new Laptop();
         Computer desk = new Desktop();
-        Developer developer = new Developer();
         lap.code();
         desk.code();
-        developer.devApp(lap.code);
+
     }
 }
