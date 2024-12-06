@@ -1,4 +1,4 @@
-package Advance;
+package Advance.QuizProject;
 
 import java.util.Scanner;
 

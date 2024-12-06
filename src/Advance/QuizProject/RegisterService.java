@@ -1,4 +1,4 @@
-package Advance;
+package Advance.QuizProject;
 
 public class RegisterService {
     Register [] people = new Register[4];

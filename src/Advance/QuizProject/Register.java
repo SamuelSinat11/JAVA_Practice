@@ -1,4 +1,4 @@
-package Advance;
+package Advance.QuizProject;
 
 public class Register {
     private int id;

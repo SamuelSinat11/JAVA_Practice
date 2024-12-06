@@ -1,4 +1,4 @@
-package Advance;
+package Advance.QuizProject;
 
 public class Main {
     public static void main(String[] args) {
