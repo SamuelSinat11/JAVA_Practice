@@ -1,0 +1,9 @@
+Exceptions
+_Error
+1.Complier - Time Error
+2.RunTime - Error -> Exception Handling
+3.Logical - Error
+
+Statement
+-> Normal
+->
