@@ -4,6 +4,11 @@ _Error
 2.RunTime - Error -> Exception Handling
 3.Logical - Error
 
-Statement
--> Normal
-->
+Building a Product
+1. Complie
+2. Run
+3. Test
+4. Packaging
+5. Deploying
+
+What is the External Libraries ?
